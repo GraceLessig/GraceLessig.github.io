@@ -1,0 +1,100 @@
+
+body{
+    background-color: #E6E6FA;
+    margin: auto;
+}
+
+.g{
+    background-color: #FFB6C1;
+    font-family: 'Quicksand', sans-serif;
+    margin: auto;
+}
+
+.r{
+    text-align: center;
+    margin: auto;
+    color:#F0FFFF;
+    background-color: #6495ED;
+    font-family: 'Raleway', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+#pic1, #pic2, #pic3, #pic4, #pic5, #pic6, #pic7, #pic8, #pic9, #pic10{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 99%;
+}
+
+.header, .reading, .visiting, .heading{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    color: #00008B;
+    font-size: 50px;
+}
+
+.gall, .v{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    color: #00008B;
+
+}
+
+.c{
+    background-size: cover;
+    background-image: url("https://static01.nyt.com/images/2015/11/01/nyregion/01BIGCITY/01BIGCITY-superJumbo-v2.jpg");
+}
+
+table, th, td{
+   border: 2px solid black;
+   text-align: center;
+}
+
+.t{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+table{
+    color: #00008B;
+}
+
+h3, h4, .gel{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    color: #00008B;
+}
+
+.b, .b1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+
+.ind{
+    background-size: cover;
+    background-image: url("https://www.tripsavvy.com/thmb/baBf2fWcyNP0Ib0GJeOsN8mr8Hk=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/entrance-to-green-wood-cemetery--669715504-08ba14c915b94686ad3cf3cc0aeb4325.jpg");
+}
+
+.i1{
+    text-align: center;
+    margin: auto;
+    color:#F0FFFF;
+    background-color: #6495ED;
+    font-family: 'Raleway', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
